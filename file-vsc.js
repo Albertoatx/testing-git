@@ -1,0 +1,1 @@
+console.log("Fichero creado para hacer el commit desde VSC");
